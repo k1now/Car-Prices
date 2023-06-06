@@ -1,0 +1,38 @@
+We are ready to present our findings to you regarding the factors that 
+drive used car prices. We understand that you generally distinguish 
+between the 
+Luxury and Non-Luxury used car market, and thus, we analyzed both segments 
+of the 
+market and are ready to share our findings with you. W
+ithout going into 
+much detail, we'd like to assure you that we took the time to examine 
+multiple ML models (i.e. regression and Lasso) and compared our findings 
+to ensure we provide you with the best possible insight.
+To present our findings, we'll break down the discussion into factor 
+influence higher and lower prices for a used car:
+Both in Luxury and Non Luxury market, we found that the biggest detrement 
+causing price depreciation is the age of the car. Though Mileage is key in 
+price deprecation, we found that the magnitude of deprecation resulted 
+from the age is significantly larger. In addition, we discovered that 
+vehicles with automatic transmission experience a significantly sharper 
+decline in value compared to manual and semi-automatic transmission.
+The largest factors that increases the price of used cars, both in case of 
+Luxury and Non-Luxury is having a semi-automatic transmission. In 
+addition, having a clearn or lien title are also important facors that 
+keep the used car prices high.
+Lastly, contrasting the Luxury and non-Luxury car market, it is important 
+to note that having diesel fuel is an import feature that keeps the 
+non-Luxury cars sharply higher while it's not a big factor when 
+determining the price of luxury cars. For Luxury cars, having electric 
+engine leads their prices higher, while in case of non-Luxury, it pushes 
+them lower. Lastly, manual transmission is a plus for Luxury cars while in 
+case of non-Luxury, it pushes the prices slightly lower (yet not as much 
+as automatic transmission does).
+In summary, be cautious of the age of the car, even more so than the 
+mileage. If you are looking into Luxury market, electric cars or the ones 
+with manual prices tend to have higher prices. If you are in the 
+non-Luxury market, diesel fueled cars keep their prices higher. In both 
+markets, look for clean titles and keep in mind that semi-automatic used 
+cars have higher prices.
+To view the jupyter notebook, look at this github repository: 
+https://github.com/k1now/Car-Prices/blob/main/UsedCarPrices.ipynb
